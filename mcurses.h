@@ -15,6 +15,7 @@
 #include <random>
 #include "termios.h"
 using namespace std;
+using namespace mcurses;
 
 
 #pragma once
